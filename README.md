@@ -36,7 +36,7 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 <a href="https://dashboard.heroku.com/new?template=https://github.com/skypiss/AyaneMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 
 ### CENGHA
- href="https://t.me/dxAceng"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/dxAceng"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 ## Credits
