@@ -3,6 +3,7 @@
     "description": "This Repo Is Made For Fun.",
     "keywords": ["music", "voice chat", "telegram"],
     "repository": "https://github.com/skypiss/AyaneMusic",
+    "logo": "https://telegra.ph/file/b21ae52a09c8b81896bba.jpg",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
